@@ -8,13 +8,6 @@
 
 import Foundation
 
-struct espresso {
-    let beans = 10
-    let water = 10
-    init() {}
-    
-}
-
 class CoffeeMachine:NSObject {
     
     var milkTank:Int
